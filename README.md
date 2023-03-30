@@ -2,7 +2,7 @@
 
 # Skill trees
 
-[<img align="right" alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Hahahalala">](https://wakatime.com/@Hahahalala)
+[<img align="right" alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Hahahalala&layout=compact&theme=transparent&hide=Perl,Other">](https://wakatime.com/@Hahahalala)
 
 ### What language am I writing in recently?
 
